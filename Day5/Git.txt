@@ -1,0 +1,32 @@
+# Git is a version control system
+
+# Why do we need git?
+=> It is used for version controlling
+=> It is used in team collaboration
+
+# Where do we store our code?
+=> In github / gitlab / bitbucket
+=> Github / gitlab / bitbucket understands the git language
+=> Github and gitlab are the cloud based software solution (web-application) running in the web, which understands
+the git terminologies and makes team collaboration easier.
+
+Q. Why not google drive? onedrive?
+=> Google drive / onedrive doen't understand the git language (commits, branches,
+staging area and so on)
+=> Team collaboration is also not so helpful in cloud based drives.
+
+
+git config --global user.name "New Localhost"
+git config --global user.email "uzwalsharma745@gmail.com"
+git config --global user.name
+git config --global user.email
+
+#. For initiating git:-
+=> git init
+=> git add .
+
+=> git commit -m "commit message"
+
+
+
+
