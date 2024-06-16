@@ -1,0 +1,6 @@
+1. Add new code in branch1 (In local)
+2. Add commit push from branch1 (In local)
+3. Create a PR (Pull Request) from branch1 -> Main branch in Github
+4. Merge Pull Request (In github)
+5. git checkout main (In local)
+6. git pull (In local)
