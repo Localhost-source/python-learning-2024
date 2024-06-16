@@ -1,0 +1,7 @@
+    =>git status
+    =>git add .
+    =>git status
+    =>git commit -m "first task"
+    =>git status
+    =>git push origin main
+    =>clear
