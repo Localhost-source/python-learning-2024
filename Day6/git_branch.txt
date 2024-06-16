@@ -1,0 +1,16 @@
+1. git branch
+    => It lists all the branches and highlights the current branch
+2. git branch <branch_name>
+    => It creates a new branch
+3. git checkout <branch_name>
+       => It switch your branch to the branch name provided
+
+4. 2 and 3 can be obtained from a single command
+    git checkout -b <branch_name>
+    => It creates a new branch and jumps to that branch immediately
+
+5. git branch -M main
+    => This sets our git trunk to "main"
+
+6. git merge <branch_name>
+    => It merges the code from the branch name provided to the current branch
