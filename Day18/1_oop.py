@@ -22,7 +22,7 @@ print(engine)  # Petrol
 
 print(car.color)  # red
 print(car.wheels)  # 4
-# print(Vehicle.color)
+print(Vehicle.engine_type)
 
 
 print(Vehicle.engine_type)  # Property invoke using class Vehicle
