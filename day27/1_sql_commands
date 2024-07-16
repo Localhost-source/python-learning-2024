@@ -1,0 +1,3 @@
+1. create database <db_name>;
+2. \l => lists all the databases, users and db roles
+3. \c <db_name> => enters into the particular database shell

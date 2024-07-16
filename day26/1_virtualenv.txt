@@ -1,0 +1,29 @@
+1. Create a virtual environment
+    => python -m venv <environment_name>
+    => python -m venv venv
+            or
+    => python -m venv env
+
+2. In windows (command prompt):
+    => venv\Scripts\activate
+
+   In Linux / Mac terminal
+   => source venv/bin/activate
+
+3. Deactivate the environment
+    => deactivate
+
+4. Install a package in environment
+      => pip install <package_name>  (requests)
+
+5. pip freeze
+    => Lists all the packages
+
+6. pip uninstall <package_name>
+    => Uninstall packages
+
+7. python -m pip install --upgrade pip
+
+8. pip freeze > requirements.txt
+
+
