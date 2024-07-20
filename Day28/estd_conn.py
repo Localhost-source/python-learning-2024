@@ -1,4 +1,4 @@
-import psycopg2
+import psycopg2 # type: ignore
 
 
 def estd_connection():
